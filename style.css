@@ -216,7 +216,7 @@ body {
   height: 0;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-top: 5px solid #666;
+  border-top: 5px solid #fff;
   position: absolute;
   bottom: -5px;
   left: 40px;
@@ -225,7 +225,7 @@ body {
 /* text pops up when icon is in hover state */
 
 .contact a:hover span {
-  bottom: 50px;
+  bottom: 35px;
   visibility: visible;
   opacity: 1;
 }
